@@ -1,0 +1,10 @@
+{
+	"name": "example",
+    "api_key": "put-your-api-here",
+    "base_url": "https://www.your-api-providers/api/",
+	"models": [
+        "models1",
+        "models2",
+        "……"
+    ]
+}
